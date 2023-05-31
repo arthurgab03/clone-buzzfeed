@@ -1,0 +1,86 @@
+{
+    "title":"Você seria do lado da luz ou do lado sombrio da força?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual habilidade você escolheria?",
+        "options":[
+          {"id": 1, "name":"Truque da mente", "alias":"A"},
+          {"id": 2, "name":"Controle mental", "alias":"B"},
+          {"id": 3, "name":"Comunicação com animais", "alias":"A"},
+          {"id": 4, "name":"Sufocamento com telecinese", "alias":"B"},
+          {"id": 5, "name":"Previsão do futuro", "alias":"A"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Qual é a sua cor preferida de cristal Kyber?",
+        "options":[
+          {"id": 1, "name":"Azul", "alias":"A"},
+          {"id": 2, "name":"Verde", "alias":"A"},
+          {"id": 3, "name":"Vermelho", "alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Em um duelo de sabre de luz, o que você faria para vencer?",
+        "options":[
+          {"id": 1, "name":"Usar a força para empurrar vários objetos pesados no adversário", "alias":"B"},
+          {"id": 2, "name":"Convencer o adversário para desistir de lutar", "alias":"A"},
+          {"id": 3, "name":"Cortar as mãos do adversário para desarmar", "alias":"A"},
+          {"id": 4, "name":"Cortar o adversário ao meio", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "Qual o seu maior foco?",
+        "options":[
+          {"id": 1, "name":"Manter a paz na galáxia", "alias":"A"},
+          {"id": 2, "name":"Conquistar meus objetivos pessoais", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "Qual o seu planeta natal?",
+        "options":[
+          {"id": 1, "name":"Jedha", "alias":"A"},
+          {"id": 2, "name":"Naboo", "alias":"B"},
+          {"id": 3, "name":"Tatooine", "alias":"A"},
+          {"id": 4, "name":"Dathomir", "alias":"B"}
+        ]
+      },
+
+      {
+        "id":6,
+        "question": "Quem você gostaria de ter como mentor?",
+        "options":[
+          {"id": 1, "name":"Yoda", "alias":"A"},
+          {"id": 2, "name":"Sheev Palpatine", "alias":"B"},
+          {"id": 3, "name":"Obi-Wan Kenobi", "alias":"A"},
+          {"id": 4, "name":"Conde Dooku", "alias":"B"}
+        ]
+      }, 
+      {
+        "id":7,
+        "question": "Ao liderar uma batalhão, qual tipo de tropa você iria comandar?",
+        "options":[
+          {"id": 1, "name":"Clone Trooper", "alias":"A"},
+          {"id": 2, "name":"Death Trooper", "alias":"B"},
+          {"id": 3, "name":"Stormtrooper", "alias":"B"},
+          {"id": 4, "name":"Dark Trooper", "alias":"B"}
+        ]
+      },
+      {
+        "id":8,
+        "question": "Você se guia pela razão ou emoção?",
+        "options":[
+          {"id": 1, "name":"Razão", "alias":"A"},
+          {"id": 2, "name":"Emoção", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Você é do lado da luz!",
+      "B": "Você é do lado sombrio!"
+    }
+  }

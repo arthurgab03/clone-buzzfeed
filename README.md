@@ -1,4 +1,11 @@
-# CloneBuzzfeed
+# Clone Buzzfeed
+- Projeto desenvolvido durante o bootcamp Potência Tech Angular Developer - Powered by Ifood da DIO.
+
+- O projeto é um clone do Buzzfeed com temática de Star Wars, esta página foi desenvolvida com o framework Angular.
+
+
+## Anotações padrão do Angular:
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
